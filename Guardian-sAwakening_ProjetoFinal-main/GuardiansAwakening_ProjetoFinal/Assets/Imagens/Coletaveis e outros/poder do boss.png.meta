@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: c0e98beeda0350e42810bbb6896c8ed7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7255064061463073511
+    second: poder do boss_0
+  - first:
+      213: 4286263386875246314
+    second: poder do boss_1
+  - first:
+      213: -2344213258212397324
+    second: poder do boss_2
+  - first:
+      213: 8489674167313729716
+    second: poder do boss_3
+  - first:
+      213: -8056616201593955105
+    second: poder do boss_4
+  - first:
+      213: 8325395915142663602
+    second: poder do boss_5
+  - first:
+      213: -4122345138549095472
+    second: poder do boss_6
+  - first:
+      213: 4249014290983862890
+    second: poder do boss_7
+  - first:
+      213: 5808821743542449658
+    second: poder do boss_8
+  - first:
+      213: 5125931731674665492
+    second: poder do boss_9
+  - first:
+      213: 345999627200121464
+    second: poder do boss_10
+  - first:
+      213: -5761663197842217972
+    second: poder do boss_11
+  - first:
+      213: -2278641184636018115
+    second: poder do boss_12
+  - first:
+      213: -7805854333971777576
+    second: poder do boss_13
+  - first:
+      213: 4831772092084112391
+    second: poder do boss_14
+  - first:
+      213: 2214945239171244625
+    second: poder do boss_15
+  - first:
+      213: -1545025421076180643
+    second: poder do boss_16
+  - first:
+      213: -1374947208222681863
+    second: poder do boss_17
+  - first:
+      213: 1187812074073849575
+    second: poder do boss_18
+  - first:
+      213: 5301163845757707718
+    second: poder do boss_19
+  - first:
+      213: -4555399715205263230
+    second: poder do boss_20
+  - first:
+      213: 6022737341889635163
+    second: poder do boss_21
+  - first:
+      213: -2778792777836533876
+    second: poder do boss_22
+  - first:
+      213: 150224956274039528
+    second: poder do boss_23
+  - first:
+      213: -2380671635551732514
+    second: poder do boss_24
+  - first:
+      213: 5143763552823643424
+    second: poder do boss_25
+  - first:
+      213: 3151996188438354312
+    second: poder do boss_26
+  - first:
+      213: 1824662946057262825
+    second: poder do boss_27
+  - first:
+      213: -4967599114527082418
+    second: poder do boss_28
+  - first:
+      213: -5574326246168700689
+    second: poder do boss_29
+  - first:
+      213: -3743829200198746202
+    second: poder do boss_30
+  - first:
+      213: -3385967351151489995
+    second: poder do boss_31
+  - first:
+      213: 664689049319428753
+    second: poder do boss_32
+  - first:
+      213: 620469267241986468
+    second: poder do boss_33
+  - first:
+      213: -1882401187509124901
+    second: poder do boss_34
+  - first:
+      213: 78235947732064028
+    second: poder do boss_35
+  - first:
+      213: -3573529950763275325
+    second: poder do boss_36
+  - first:
+      213: 2695122678354059978
+    second: poder do boss_37
+  - first:
+      213: -7361650676122800805
+    second: poder do boss_38
+  - first:
+      213: -241375666662489274
+    second: poder do boss_39
+  - first:
+      213: 3394027501226471507
+    second: poder do boss_40
+  - first:
+      213: 36606842679404595
+    second: poder do boss_41
+  - first:
+      213: 2385540432679137002
+    second: poder do boss_42
+  - first:
+      213: 2681621138110905643
+    second: poder do boss_43
+  - first:
+      213: 8221534574007906277
+    second: poder do boss_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: poder do boss_0
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 909
+        width: 1920
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d6ac1dca5d05b90800000000000000
+      internalID: -7255064061463073511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_1
+      rect:
+        serializedVersion: 2
+        x: 4003
+        y: 2364
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6367c37dddb7b30800000000000000
+      internalID: 4286263386875246314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_2
+      rect:
+        serializedVersion: 2
+        x: 4025
+        y: 2268
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe2d7a367ea77fd0800000000000000
+      internalID: -2344213258212397324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_3
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 2246
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b88b89cca161d570800000000000000
+      internalID: 8489674167313729716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_4
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 2258
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcd55c1046213090800000000000000
+      internalID: -8056616201593955105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_5
+      rect:
+        serializedVersion: 2
+        x: 3934
+        y: 2177
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd0198997fb98370800000000000000
+      internalID: 8325395915142663602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_6
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 2162
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3093700fc7ac6c0800000000000000
+      internalID: -4122345138549095472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_7
+      rect:
+        serializedVersion: 2
+        x: 3963
+        y: 2078
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62c6a34cf787fa30800000000000000
+      internalID: 4249014290983862890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_8
+      rect:
+        serializedVersion: 2
+        x: 4101
+        y: 2098
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5b96b69941d9050800000000000000
+      internalID: 5808821743542449658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_9
+      rect:
+        serializedVersion: 2
+        x: 4131
+        y: 2048
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4121f5960c7f22740800000000000000
+      internalID: 5125931731674665492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_10
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 2004
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a4ea7e3dc3dc400800000000000000
+      internalID: 345999627200121464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_11
+      rect:
+        serializedVersion: 2
+        x: 4081
+        y: 1974
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c046c2129d57a00b0800000000000000
+      internalID: -5761663197842217972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_12
+      rect:
+        serializedVersion: 2
+        x: 4141
+        y: 2014
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32e1335ae3a060e0800000000000000
+      internalID: -2278641184636018115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_13
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1994
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d73b2727d80ca390800000000000000
+      internalID: -7805854333971777576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_14
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1965
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cc1503e17ed0340800000000000000
+      internalID: 4831772092084112391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_15
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 1940
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152aeb1b5f01dbe10800000000000000
+      internalID: 2214945239171244625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_16
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 1925
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d515ecfb097fe8ae0800000000000000
+      internalID: -1545025421076180643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_17
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 1891
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4d8f48cc43bece0800000000000000
+      internalID: -1374947208222681863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_18
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 1905
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee771fb9c4fb7010800000000000000
+      internalID: 1187812074073849575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_19
+      rect:
+        serializedVersion: 2
+        x: 4106
+        y: 1822
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c528825e64819940800000000000000
+      internalID: 5301163845757707718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_20
+      rect:
+        serializedVersion: 2
+        x: 3943
+        y: 1797
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28056453818f7c0c0800000000000000
+      internalID: -4555399715205263230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_21
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 1797
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53efced3bf059350800000000000000
+      internalID: 6022737341889635163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_22
+      rect:
+        serializedVersion: 2
+        x: 4146
+        y: 1753
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87e1a4f0bebf69d0800000000000000
+      internalID: -2778792777836533876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_23
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1723
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eadc134dc4b51200800000000000000
+      internalID: 150224956274039528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_24
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 1723
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc3714c2c726fed0800000000000000
+      internalID: -2380671635551732514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_25
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1684
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d87aec2b1526740800000000000000
+      internalID: 5143763552823643424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_26
+      rect:
+        serializedVersion: 2
+        x: 3988
+        y: 1642
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889d04955d32ebb20800000000000000
+      internalID: 3151996188438354312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_27
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1555
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e69f8e2841825910800000000000000
+      internalID: 1824662946057262825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_28
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 1506
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e487110ccea8f0bb0800000000000000
+      internalID: -4967599114527082418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_29
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1521
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe85afa20d304a2b0800000000000000
+      internalID: -5574326246168700689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_30
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1521
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af3b669d2f3b0cc0800000000000000
+      internalID: -3743829200198746202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_31
+      rect:
+        serializedVersion: 2
+        x: 3973
+        y: 1516
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c8b8d32a0a201d0800000000000000
+      internalID: -3385967351151489995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_32
+      rect:
+        serializedVersion: 2
+        x: 4077
+        y: 1531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192d6ce2b23793900800000000000000
+      internalID: 664689049319428753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_33
+      rect:
+        serializedVersion: 2
+        x: 4076
+        y: 1476
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9610cd2895c9800800000000000000
+      internalID: 620469267241986468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_34
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0ceb5e71e50e5e0800000000000000
+      internalID: -1882401187509124901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_35
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1463
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c175c311e23f51100800000000000000
+      internalID: 78235947732064028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_36
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 1417
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb29827175486ec0800000000000000
+      internalID: -3573529950763275325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_37
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 1403
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2a46debcff66520800000000000000
+      internalID: 2695122678354059978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_38
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 1304
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5daf29b6b926d990800000000000000
+      internalID: -7361650676122800805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_39
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1304
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643c82b2c1676acf0800000000000000
+      internalID: -241375666662489274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_40
+      rect:
+        serializedVersion: 2
+        x: 3993
+        y: 1072
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350b280b7020a1f20800000000000000
+      internalID: 3394027501226471507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_41
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 905
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338214ebabd028000800000000000000
+      internalID: 36606842679404595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_42
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 886
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeeb2762642b1120800000000000000
+      internalID: 2385540432679137002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_43
+      rect:
+        serializedVersion: 2
+        x: 3327
+        y: 885
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d774f9738073520800000000000000
+      internalID: 2681621138110905643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poder do boss_44
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 801
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef6550b222c81270800000000000000
+      internalID: 8221534574007906277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      poder do boss_0: -7255064061463073511
+      poder do boss_1: 4286263386875246314
+      poder do boss_10: 345999627200121464
+      poder do boss_11: -5761663197842217972
+      poder do boss_12: -2278641184636018115
+      poder do boss_13: -7805854333971777576
+      poder do boss_14: 4831772092084112391
+      poder do boss_15: 2214945239171244625
+      poder do boss_16: -1545025421076180643
+      poder do boss_17: -1374947208222681863
+      poder do boss_18: 1187812074073849575
+      poder do boss_19: 5301163845757707718
+      poder do boss_2: -2344213258212397324
+      poder do boss_20: -4555399715205263230
+      poder do boss_21: 6022737341889635163
+      poder do boss_22: -2778792777836533876
+      poder do boss_23: 150224956274039528
+      poder do boss_24: -2380671635551732514
+      poder do boss_25: 5143763552823643424
+      poder do boss_26: 3151996188438354312
+      poder do boss_27: 1824662946057262825
+      poder do boss_28: -4967599114527082418
+      poder do boss_29: -5574326246168700689
+      poder do boss_3: 8489674167313729716
+      poder do boss_30: -3743829200198746202
+      poder do boss_31: -3385967351151489995
+      poder do boss_32: 664689049319428753
+      poder do boss_33: 620469267241986468
+      poder do boss_34: -1882401187509124901
+      poder do boss_35: 78235947732064028
+      poder do boss_36: -3573529950763275325
+      poder do boss_37: 2695122678354059978
+      poder do boss_38: -7361650676122800805
+      poder do boss_39: -241375666662489274
+      poder do boss_4: -8056616201593955105
+      poder do boss_40: 3394027501226471507
+      poder do boss_41: 36606842679404595
+      poder do boss_42: 2385540432679137002
+      poder do boss_43: 2681621138110905643
+      poder do boss_44: 8221534574007906277
+      poder do boss_5: 8325395915142663602
+      poder do boss_6: -4122345138549095472
+      poder do boss_7: 4249014290983862890
+      poder do boss_8: 5808821743542449658
+      poder do boss_9: 5125931731674665492
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

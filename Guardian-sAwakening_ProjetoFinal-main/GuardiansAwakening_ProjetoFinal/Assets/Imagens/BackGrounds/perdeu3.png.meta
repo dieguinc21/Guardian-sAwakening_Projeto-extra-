@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 1f539350cd28f1a4b835632a161052ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8612655438642395205
+    second: perdeu3_0
+  - first:
+      213: 4616080696613404778
+    second: perdeu3_1
+  - first:
+      213: 4977482916340123056
+    second: perdeu3_2
+  - first:
+      213: 6278412822004049051
+    second: perdeu3_3
+  - first:
+      213: -7682087531128069020
+    second: perdeu3_4
+  - first:
+      213: 3293225209268656334
+    second: perdeu3_5
+  - first:
+      213: 3328796757167458250
+    second: perdeu3_6
+  - first:
+      213: -45221599655143942
+    second: perdeu3_7
+  - first:
+      213: 8842606976989573713
+    second: perdeu3_8
+  - first:
+      213: 2724029099676077608
+    second: perdeu3_9
+  - first:
+      213: -8048031954418585079
+    second: perdeu3_10
+  - first:
+      213: -3200788912121988387
+    second: perdeu3_11
+  - first:
+      213: -5093789811455168136
+    second: perdeu3_12
+  - first:
+      213: -6497648032083737065
+    second: perdeu3_13
+  - first:
+      213: 3195209188311223037
+    second: perdeu3_14
+  - first:
+      213: 5188099218427736530
+    second: perdeu3_15
+  - first:
+      213: -8710193237171608600
+    second: perdeu3_16
+  - first:
+      213: -911404916032676322
+    second: perdeu3_17
+  - first:
+      213: 8189043962771999413
+    second: perdeu3_18
+  - first:
+      213: -7765218476861210850
+    second: perdeu3_19
+  - first:
+      213: 4899251406680753520
+    second: perdeu3_20
+  - first:
+      213: 1750486437597191548
+    second: perdeu3_21
+  - first:
+      213: -1362746326278882800
+    second: perdeu3_22
+  - first:
+      213: 909366820791525194
+    second: perdeu3_23
+  - first:
+      213: 2765751773665799233
+    second: perdeu3_24
+  - first:
+      213: -6347536355214999855
+    second: perdeu3_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: perdeu3_0
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 769
+        width: 143
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb742e6a283b97880800000000000000
+      internalID: -8612655438642395205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_1
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 765
+        width: 125
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a600e20cfec9f0040800000000000000
+      internalID: 4616080696613404778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_2
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 747
+        width: 107
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b547003752931540800000000000000
+      internalID: 4977482916340123056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_3
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 771
+        width: 84
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b942fc87237612750800000000000000
+      internalID: 6278412822004049051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_4
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 891
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46467a5871eb36590800000000000000
+      internalID: -7682087531128069020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_5
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 602
+        width: 102
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8d1db21e2e3bd20800000000000000
+      internalID: 3293225209268656334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_6
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 599
+        width: 84
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac740709303423e20800000000000000
+      internalID: 3328796757167458250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_7
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 601
+        width: 99
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af55168d1375f5ff0800000000000000
+      internalID: -45221599655143942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_8
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 597
+        width: 111
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152bad7023047ba70800000000000000
+      internalID: 8842606976989573713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_9
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 601
+        width: 83
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e050c9802bdc520800000000000000
+      internalID: 2724029099676077608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_10
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 597
+        width: 116
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90233e7e395af4090800000000000000
+      internalID: -8048031954418585079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 448
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddab5f361738493d0800000000000000
+      internalID: -3200788912121988387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 446
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871f5bf87293f49b0800000000000000
+      internalID: -5093789811455168136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_13
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 447
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71602247a87b3d5a0800000000000000
+      internalID: -6497648032083737065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_14
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 446
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaca5ce3d9a75c20800000000000000
+      internalID: 3195209188311223037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_15
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 446
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1fddd50c4dff740800000000000000
+      internalID: 5188099218427736530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_16
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 444
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3606d366d2f1780800000000000000
+      internalID: -8710193237171608600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_17
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 440
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ed355ce0a0a53f0800000000000000
+      internalID: -911404916032676322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_18
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 444
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba0513c81455a170800000000000000
+      internalID: 8189043962771999413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 440
+        width: 164
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f336befe66c3490800000000000000
+      internalID: -7765218476861210850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_20
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 442
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0750a807233adf340800000000000000
+      internalID: 4899251406680753520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_21
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 445
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d9e19f32afa4810800000000000000
+      internalID: 1750486437597191548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_22
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 445
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01abd27bf6d861de0800000000000000
+      internalID: -1362746326278882800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_23
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 442
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f1ec33e48be9c00800000000000000
+      internalID: 909366820791525194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_24
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 465
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ca146a59ce16620800000000000000
+      internalID: 2765751773665799233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perdeu3_25
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 441
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de388cc05509e7a0800000000000000
+      internalID: -6347536355214999855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      perdeu3_0: -8612655438642395205
+      perdeu3_1: 4616080696613404778
+      perdeu3_10: -8048031954418585079
+      perdeu3_11: -3200788912121988387
+      perdeu3_12: -5093789811455168136
+      perdeu3_13: -6497648032083737065
+      perdeu3_14: 3195209188311223037
+      perdeu3_15: 5188099218427736530
+      perdeu3_16: -8710193237171608600
+      perdeu3_17: -911404916032676322
+      perdeu3_18: 8189043962771999413
+      perdeu3_19: -7765218476861210850
+      perdeu3_2: 4977482916340123056
+      perdeu3_20: 4899251406680753520
+      perdeu3_21: 1750486437597191548
+      perdeu3_22: -1362746326278882800
+      perdeu3_23: 909366820791525194
+      perdeu3_24: 2765751773665799233
+      perdeu3_25: -6347536355214999855
+      perdeu3_3: 6278412822004049051
+      perdeu3_4: -7682087531128069020
+      perdeu3_5: 3293225209268656334
+      perdeu3_6: 3328796757167458250
+      perdeu3_7: -45221599655143942
+      perdeu3_8: 8842606976989573713
+      perdeu3_9: 2724029099676077608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 013c6fb0753ba0542a7c871a12ce4f33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4666560053134777453
+    second: Poder do player_0
+  - first:
+      213: -8784406891035658947
+    second: Poder do player_1
+  - first:
+      213: 7281112993847975890
+    second: Poder do player_2
+  - first:
+      213: 885174311097529958
+    second: Poder do player_3
+  - first:
+      213: 5560753526018232433
+    second: Poder do player_4
+  - first:
+      213: 4855976980645992043
+    second: Poder do player_5
+  - first:
+      213: 4213484313571902925
+    second: Poder do player_6
+  - first:
+      213: 2371598625372785887
+    second: Poder do player_7
+  - first:
+      213: 8091352388183947757
+    second: Poder do player_8
+  - first:
+      213: 5329476818150908098
+    second: Poder do player_9
+  - first:
+      213: 3491616593366595374
+    second: Poder do player_10
+  - first:
+      213: 6800408399377150937
+    second: Poder do player_11
+  - first:
+      213: -2363877340980458604
+    second: Poder do player_12
+  - first:
+      213: 5851318454181185273
+    second: Poder do player_13
+  - first:
+      213: -5882300706963826609
+    second: Poder do player_14
+  - first:
+      213: -8325616195357718683
+    second: Poder do player_15
+  - first:
+      213: 7272262836437979467
+    second: Poder do player_16
+  - first:
+      213: 7103296919272530406
+    second: Poder do player_17
+  - first:
+      213: -178913080086514178
+    second: Poder do player_18
+  - first:
+      213: 630537643534159588
+    second: Poder do player_19
+  - first:
+      213: 1979235240630682113
+    second: Poder do player_20
+  - first:
+      213: 8114966876292993814
+    second: Poder do player_21
+  - first:
+      213: 5788673935296291158
+    second: Poder do player_22
+  - first:
+      213: 2806471300125218057
+    second: Poder do player_23
+  - first:
+      213: -4049603049790400487
+    second: Poder do player_24
+  - first:
+      213: -2891835495536025298
+    second: Poder do player_25
+  - first:
+      213: 2716623750171549318
+    second: Poder do player_26
+  - first:
+      213: 6179608115358941178
+    second: Poder do player_27
+  - first:
+      213: -5285582822511496653
+    second: Poder do player_28
+  - first:
+      213: -3101854172245405422
+    second: Poder do player_29
+  - first:
+      213: -1048055075557744472
+    second: Poder do player_30
+  - first:
+      213: -793161005546189263
+    second: Poder do player_31
+  - first:
+      213: 896171912808416385
+    second: Poder do player_32
+  - first:
+      213: -5326380570218623747
+    second: Poder do player_33
+  - first:
+      213: -7599720681058601007
+    second: Poder do player_34
+  - first:
+      213: -7985335447137457265
+    second: Poder do player_35
+  - first:
+      213: 6150822310077194123
+    second: Poder do player_36
+  - first:
+      213: 6227710727782015138
+    second: Poder do player_37
+  - first:
+      213: 8273857642014044139
+    second: Poder do player_38
+  - first:
+      213: 6359189444807041807
+    second: Poder do player_39
+  - first:
+      213: 3831311379206443138
+    second: Poder do player_40
+  - first:
+      213: -2294633778212720604
+    second: Poder do player_41
+  - first:
+      213: 1662672246818822355
+    second: Poder do player_42
+  - first:
+      213: 8632576976004700602
+    second: Poder do player_43
+  - first:
+      213: -4870120536001462237
+    second: Poder do player_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poder do player_0
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 909
+        width: 1920
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c5022d4a3f2c040800000000000000
+      internalID: 4666560053134777453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_1
+      rect:
+        serializedVersion: 2
+        x: 4003
+        y: 2364
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3573517974871680800000000000000
+      internalID: -8784406891035658947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_2
+      rect:
+        serializedVersion: 2
+        x: 4025
+        y: 2268
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df1acfd0b5bb0560800000000000000
+      internalID: 7281112993847975890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_3
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 2246
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666f4499855c84c00800000000000000
+      internalID: 885174311097529958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_4
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 2258
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17051d9aed3cb2d40800000000000000
+      internalID: 5560753526018232433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_5
+      rect:
+        serializedVersion: 2
+        x: 3934
+        y: 2177
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66d0e8f555e36340800000000000000
+      internalID: 4855976980645992043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_6
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 2162
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc54221c8ad497a30800000000000000
+      internalID: 4213484313571902925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_7
+      rect:
+        serializedVersion: 2
+        x: 3963
+        y: 2078
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc462f626c99e020800000000000000
+      internalID: 2371598625372785887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_8
+      rect:
+        serializedVersion: 2
+        x: 4101
+        y: 2098
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9763290224a4070800000000000000
+      internalID: 8091352388183947757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_9
+      rect:
+        serializedVersion: 2
+        x: 4131
+        y: 2048
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c06098edea16f940800000000000000
+      internalID: 5329476818150908098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_10
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 2004
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27b973dac6b47030800000000000000
+      internalID: 3491616593366595374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_11
+      rect:
+        serializedVersion: 2
+        x: 4081
+        y: 1974
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3357cb867ef5e50800000000000000
+      internalID: 6800408399377150937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_12
+      rect:
+        serializedVersion: 2
+        x: 4141
+        y: 2014
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bc34e2512d13fd0800000000000000
+      internalID: -2363877340980458604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_13
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1994
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f64829e12f043150800000000000000
+      internalID: 5851318454181185273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_14
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1965
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48546b3caedd5ea0800000000000000
+      internalID: -5882300706963826609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_15
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 1940
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567c67b6e28757c80800000000000000
+      internalID: -8325616195357718683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_16
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 1925
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41192705844ce460800000000000000
+      internalID: 7272262836437979467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_17
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 1891
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1ad57c9eaf39260800000000000000
+      internalID: 7103296919272530406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_18
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 1905
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5b5c7608f548df0800000000000000
+      internalID: -178913080086514178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_19
+      rect:
+        serializedVersion: 2
+        x: 4106
+        y: 1822
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee8d5465ae10c800800000000000000
+      internalID: 630537643534159588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_20
+      rect:
+        serializedVersion: 2
+        x: 3943
+        y: 1797
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1020ab407f7a77b10800000000000000
+      internalID: 1979235240630682113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_21
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 1797
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613518901672e9070800000000000000
+      internalID: 8114966876292993814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_22
+      rect:
+        serializedVersion: 2
+        x: 4146
+        y: 1753
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651e5e14640855050800000000000000
+      internalID: 5788673935296291158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_23
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1723
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905da4437c692f620800000000000000
+      internalID: 2806471300125218057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_24
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 1723
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91897ef5b7becc7c0800000000000000
+      internalID: -4049603049790400487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_25
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1684
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21a5bb30f22ed7d0800000000000000
+      internalID: -2891835495536025298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_26
+      rect:
+        serializedVersion: 2
+        x: 3988
+        y: 1642
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e5d5158e263b520800000000000000
+      internalID: 2716623750171549318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_27
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1555
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff371707d062c550800000000000000
+      internalID: 6179608115358941178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_28
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 1506
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332bb495d66d5a6b0800000000000000
+      internalID: -5285582822511496653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_29
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1521
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211df3e801004f4d0800000000000000
+      internalID: -3101854172245405422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_30
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1521
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0e55c267f8471f0800000000000000
+      internalID: -1048055075557744472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_31
+      rect:
+        serializedVersion: 2
+        x: 3973
+        y: 1516
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e4abe84402ef4f0800000000000000
+      internalID: -793161005546189263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_32
+      rect:
+        serializedVersion: 2
+        x: 4077
+        y: 1531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184c0a84b97df6c00800000000000000
+      internalID: 896171912808416385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_33
+      rect:
+        serializedVersion: 2
+        x: 4076
+        y: 1476
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc839d7715e416b0800000000000000
+      internalID: -5326380570218623747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_34
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7ff4d3e4e588690800000000000000
+      internalID: -7599720681058601007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_35
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1463
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b690d08b36e2190800000000000000
+      internalID: -7985335447137457265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_36
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 1417
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fd2b47d4c1c5550800000000000000
+      internalID: 6150822310077194123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_37
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 1403
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0265d39e54d6650800000000000000
+      internalID: 6227710727782015138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_38
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 1304
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befe56a40b5a2d270800000000000000
+      internalID: 8273857642014044139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_39
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1304
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03232d8b11604850800000000000000
+      internalID: 6359189444807041807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_40
+      rect:
+        serializedVersion: 2
+        x: 3993
+        y: 1072
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2801385766d8b2530800000000000000
+      internalID: 3831311379206443138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_41
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 905
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420b4087cb2d720e0800000000000000
+      internalID: -2294633778212720604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_42
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 886
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d85989699ff21710800000000000000
+      internalID: 1662672246818822355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_43
+      rect:
+        serializedVersion: 2
+        x: 3327
+        y: 885
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9d9f6b5031dc770800000000000000
+      internalID: 8632576976004700602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poder do player_44
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 801
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3204c4eec2bd96cb0800000000000000
+      internalID: -4870120536001462237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Poder do player_0: 4666560053134777453
+      Poder do player_1: -8784406891035658947
+      Poder do player_10: 3491616593366595374
+      Poder do player_11: 6800408399377150937
+      Poder do player_12: -2363877340980458604
+      Poder do player_13: 5851318454181185273
+      Poder do player_14: -5882300706963826609
+      Poder do player_15: -8325616195357718683
+      Poder do player_16: 7272262836437979467
+      Poder do player_17: 7103296919272530406
+      Poder do player_18: -178913080086514178
+      Poder do player_19: 630537643534159588
+      Poder do player_2: 7281112993847975890
+      Poder do player_20: 1979235240630682113
+      Poder do player_21: 8114966876292993814
+      Poder do player_22: 5788673935296291158
+      Poder do player_23: 2806471300125218057
+      Poder do player_24: -4049603049790400487
+      Poder do player_25: -2891835495536025298
+      Poder do player_26: 2716623750171549318
+      Poder do player_27: 6179608115358941178
+      Poder do player_28: -5285582822511496653
+      Poder do player_29: -3101854172245405422
+      Poder do player_3: 885174311097529958
+      Poder do player_30: -1048055075557744472
+      Poder do player_31: -793161005546189263
+      Poder do player_32: 896171912808416385
+      Poder do player_33: -5326380570218623747
+      Poder do player_34: -7599720681058601007
+      Poder do player_35: -7985335447137457265
+      Poder do player_36: 6150822310077194123
+      Poder do player_37: 6227710727782015138
+      Poder do player_38: 8273857642014044139
+      Poder do player_39: 6359189444807041807
+      Poder do player_4: 5560753526018232433
+      Poder do player_40: 3831311379206443138
+      Poder do player_41: -2294633778212720604
+      Poder do player_42: 1662672246818822355
+      Poder do player_43: 8632576976004700602
+      Poder do player_44: -4870120536001462237
+      Poder do player_5: 4855976980645992043
+      Poder do player_6: 4213484313571902925
+      Poder do player_7: 2371598625372785887
+      Poder do player_8: 8091352388183947757
+      Poder do player_9: 5329476818150908098
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
